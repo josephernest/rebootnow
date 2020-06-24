@@ -25,3 +25,9 @@ You probably know the problem since years: let's say you want to reboot your com
 **This tool allows the user to choose the next device to boot on, directly from Windows, and reboots.**
 
 Thus, you don't need to "babysit" the reboot and waste 1 minute of your life pressing keys at the right timing.
+
+# Pro tip
+
+You can use AutoHotkey to associate `CTRL+WIN+ALT+DELETE` with this tool:
+
+    ^!#Del:: Run python "D:\path\to\rebootnow.py"
