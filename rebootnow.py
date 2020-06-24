@@ -1,4 +1,4 @@
-# Reboot Now !
+# Reboot Now!
 # https://github.com/josephernest/rebootnow
 
 import ctypes, win32api, win32security, struct  # do this if necessary: pip install pywin32
