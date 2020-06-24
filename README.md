@@ -2,6 +2,8 @@
 
 Reboot to a specific device easily (HDD2, USB, CDROM, BIOS Setup, etc.) 
 
+Requirement: your Windows install must be in UEFI mode 
+
 ![image](https://user-images.githubusercontent.com/6168083/85631445-d6d60300-b675-11ea-95d4-32dee62ae18b.png)
 
 # Why this tool?
