@@ -22,6 +22,8 @@ You probably know the problem since years: let's say you want to reboot your com
 
 * Sometimes you miss the precise timing, and you have to restart again!
 
+* ... this is too long!
+
 **This tool allows the user to choose the next device to boot on, directly from Windows, and reboots.**
 
 Thus, you don't need to "babysit" the reboot and waste 1 minute of your life pressing keys at the right timing.
